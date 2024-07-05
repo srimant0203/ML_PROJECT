@@ -1,6 +1,6 @@
 ## End to End Machine Learning Project 
 
-![ineuron-logo](https://github.com/Kartikay-Garg/Students_performance_ml_project/assets/117899107/5f51033f-bd4f-42d6-848b-a122a0dd70cf)
+
 
 
 ### Life cycle of Machine learning Project
@@ -29,7 +29,7 @@
 
 
 
-![Screenshot (31)](https://user-images.githubusercontent.com/117899107/236662915-b1bbd1db-3cbc-444a-a9b8-d4f7b1443dfd.png)
+
 
 
 
